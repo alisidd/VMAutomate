@@ -2,4 +2,4 @@
 
 ### Python Script
 
-Leverages APIC Rest API to automate the creation of an EPG that is cloned from an existing EPG.
+Leverages Cisco APIC Rest API to automate the creation of an EPG that is cloned from an existing EPG.
