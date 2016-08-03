@@ -1,3 +1,5 @@
+# Copyright 2016, Mohammad Ali Siddiqui, all rights reserved.
+
 import requests, sys, inspect
 
 from cobra.mit.access import MoDirectory
